@@ -1,17 +1,32 @@
-# weather-app
-A responsive weather application built using HTML, CSS, and JavaScript that retrieves real-time weather data by integrating the Open-Meteo API. The app converts city names into geographic coordinates and handles invalid inputs and API errors gracefully.
+# 🌤 Weather App
 
-## Features
+A simple and responsive Weather App built using **HTML, CSS, and JavaScript**.  
+It allows users to search for any city and view real-time weather information.  
+The app uses the **Open-Meteo API**, so no API key is required.
+
+## 🚀 Live Demo
+🔗 https://anushka9090.github.io/weather-app/
+
+## ✨ Features
 - Search weather by city name
-- Displays temperature and wind speed
-- Handles invalid city names
-- No API key required
+- Displays current temperature and wind speed
+- Uses free Open-Meteo API (no API key needed)
+- Clean and responsive UI
+- Error handling for invalid city names
 
-## Technologies Used
+## 🛠 Tech Stack
 - HTML
 - CSS
 - JavaScript
 - Open-Meteo API
+- GitHub Pages (for deployment)
 
-- ## Author
-Anushka Chopra
+## 📂 Project Structure
+weather-app/
+│── index.html
+│── index.css
+│── script.js
+
+
+## 📸 Preview
+Weather app with a simple UI that shows real-time weather data for searched cities.
